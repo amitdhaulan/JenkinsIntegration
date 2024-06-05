@@ -41,7 +41,7 @@ public class LoginTestCase extends BaseClass {
         String titleAfterLogin = "Home Page - FiscalSystems_RETLWeb";
         Assert.assertEquals(driver.getTitle(), titleAfterLogin);
         BaseClass.LOGGER.info(BaseClass.timeStamp + " " + "Login has been done!");
-        System.out.println("Testing build trigger    ");
+        System.out.println("Testing build trigger");
     }
 
     // This is a Java code snippet from the file StaffTestCase.java.
