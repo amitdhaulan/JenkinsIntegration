@@ -34,7 +34,7 @@ public class LoginTestCase extends BaseClass {
 
     // This is a test case for logging into a web application and verifying the title of the home page after login.
 
-    @Test(priority = 0, groups = {"Smoke","Regression"})
+    @Test(priority = 0, groups = {"Smoke","Regression"}, description = "Login to the application")
     public void loginTestCase() {
         loginPage = new LoginPage(driver);
         loginPage.login(properties.getProperty("username"), properties.getProperty("password"));

@@ -35,7 +35,7 @@ public class StaffTestCase extends BaseClass {
         staffListPage = new StaffListPage(driver);
     }
 
-    @Test(priority = 0, groups = {"Smoke","Regression"})
+    @Test(priority = 0, groups = {"Smoke","Regression"}, description = "This is a test case for viewing staff list")
     public void staffViewTestCase() {
         staffListPage.clickStaffMenu();
         staffListPage.clickStaffList();
@@ -43,7 +43,7 @@ public class StaffTestCase extends BaseClass {
 
     }
 
-    @Test(priority = 1, groups = {"Regression"})
+    @Test(priority = 1, groups = {"Regression"}, description = "This is a test case for editing staff list")
     public void staffEditTestCase() {
         navigateBack();
         staffListPage.clickStaffMenu();
@@ -51,7 +51,7 @@ public class StaffTestCase extends BaseClass {
         staffListPage.clickEditIcon();
     }
 
-    @Test(priority = 2, groups = {"Regression"})
+    @Test(priority = 2, groups = {"Regression"}, description = "This is a test case for deleting staff list")
     public void staffDeleteTestCase() {
         navigateBack();
         staffListPage.clickStaffMenu();
