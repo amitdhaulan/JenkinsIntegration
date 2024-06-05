@@ -1,0 +1,6 @@
+# Root logger option
+log4j.rootLogger=DEBUG, FILE, console
+
+# Direct log messages to a log file
+log4j.appender.FILE=org.apache.log4j.FileAppender
+log4j.appender.FILE.layout=org.apache.log4j.SimpleLayout

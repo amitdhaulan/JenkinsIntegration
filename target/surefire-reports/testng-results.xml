@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T16:23:01 IST" name="Surefire suite" finished-at="2024-06-05T16:23:21 IST" duration-ms="19777">
+    <groups>
+      <group name="Regression">
+        <method signature="LoginTestCase.loginTestCase()[pri:0, instance:org.example.test.cases.Login.LoginTestCase@291ae]" name="loginTestCase" class="org.example.test.cases.Login.LoginTestCase"/>
+        <method signature="StaffTestCase.staffViewTestCase()[pri:0, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" name="staffViewTestCase" class="org.example.test.cases.Staff.StaffTestCase"/>
+        <method signature="StaffTestCase.staffEditTestCase()[pri:1, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" name="staffEditTestCase" class="org.example.test.cases.Staff.StaffTestCase"/>
+        <method signature="StaffTestCase.staffDeleteTestCase()[pri:2, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" name="staffDeleteTestCase" class="org.example.test.cases.Staff.StaffTestCase"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="LoginTestCase.loginTestCase()[pri:0, instance:org.example.test.cases.Login.LoginTestCase@291ae]" name="loginTestCase" class="org.example.test.cases.Login.LoginTestCase"/>
+        <method signature="StaffTestCase.staffViewTestCase()[pri:0, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" name="staffViewTestCase" class="org.example.test.cases.Staff.StaffTestCase"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2024-06-05T16:23:01 IST" name="Surefire test" finished-at="2024-06-05T16:23:21 IST" duration-ms="19777">
+      <class name="org.example.test.cases.Staff.StaffTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" started-at="2024-06-05T16:23:05 IST" name="setup" finished-at="2024-06-05T16:23:10 IST" duration-ms="4934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="staffViewTestCase()[pri:0, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" started-at="2024-06-05T16:23:10 IST" name="staffViewTestCase" finished-at="2024-06-05T16:23:14 IST" duration-ms="3272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staffViewTestCase -->
+        <test-method signature="staffEditTestCase()[pri:1, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" started-at="2024-06-05T16:23:14 IST" name="staffEditTestCase" finished-at="2024-06-05T16:23:17 IST" duration-ms="3225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staffEditTestCase -->
+        <test-method signature="staffDeleteTestCase()[pri:2, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" started-at="2024-06-05T16:23:17 IST" name="staffDeleteTestCase" finished-at="2024-06-05T16:23:18 IST" duration-ms="1295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staffDeleteTestCase -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.example.test.cases.Staff.StaffTestCase@7193666c]" started-at="2024-06-05T16:23:21 IST" name="closeBrowser" finished-at="2024-06-05T16:23:21 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.example.test.cases.Staff.StaffTestCase -->
+      <class name="org.example.test.cases.Login.LoginTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.example.test.cases.Login.LoginTestCase@291ae]" started-at="2024-06-05T16:23:01 IST" name="setup" finished-at="2024-06-05T16:23:05 IST" duration-ms="3406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTestCase()[pri:0, instance:org.example.test.cases.Login.LoginTestCase@291ae]" started-at="2024-06-05T16:23:10 IST" name="loginTestCase" finished-at="2024-06-05T16:23:10 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.example.test.cases.Login.LoginTestCase@291ae]" started-at="2024-06-05T16:23:18 IST" name="closeBrowser" finished-at="2024-06-05T16:23:21 IST" duration-ms="2511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.example.test.cases.Login.LoginTestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,759 @@
+INFO - 21:30:24 User name has been entered.
+INFO - 21:30:24 Password has been entered.
+INFO - 21:30:24 Login button has been clicked.
+FATAL - 21:30:24 loginTestCase failed, due to :java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 21:31:27 User name has been entered.
+INFO - 21:31:27 Password has been entered.
+INFO - 21:31:27 Login button has been clicked.
+FATAL - 21:31:27 loginTestCase failed, due to :java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 21:33:26 User name has been entered.
+INFO - 21:33:26 Password has been entered.
+INFO - 21:33:26 Login button has been clicked.
+FATAL - 21:33:26 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 21:34:57 User name has been entered.
+INFO - 21:34:57 Password has been entered.
+INFO - 21:34:57 Login button has been clicked.
+FATAL - 21:34:57 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 21:37:19 User name has been entered.
+INFO - 21:37:19 Password has been entered.
+INFO - 21:37:19 Login button has been clicked.
+INFO - 21:37:19 Login has been done!
+INFO - 21:37:19 loginTestCase passed.
+INFO - 21:37:58 User name has been entered.
+INFO - 21:37:58 Password has been entered.
+INFO - 21:37:58 Login button has been clicked.
+INFO - 21:37:58 Login has been done!
+INFO - 21:37:58 loginTestCase passed.
+INFO - 21:38:19 User name has been entered.
+INFO - 21:38:19 Password has been entered.
+INFO - 21:38:19 Login button has been clicked.
+INFO - 21:38:19 Login has been done!
+INFO - 21:38:19 loginTestCase passed.
+INFO - 21:38:35 User name has been entered.
+INFO - 21:38:35 Password has been entered.
+INFO - 21:38:35 Login button has been clicked.
+INFO - 21:38:35 Login has been done!
+INFO - 21:38:35 loginTestCase passed.
+INFO - 21:39:16 User name has been entered.
+INFO - 21:39:16 Password has been entered.
+INFO - 21:39:16 Login button has been clicked.
+INFO - 21:39:16 Login has been done!
+INFO - 21:41:01 User name has been entered.
+INFO - 21:41:01 Password has been entered.
+INFO - 21:41:01 Login button has been clicked.
+INFO - 21:41:01 Login has been done!
+INFO - 21:42:23 User name has been entered.
+INFO - 21:42:23 Password has been entered.
+INFO - 21:42:23 Login button has been clicked.
+INFO - 21:42:23 Login has been done!
+INFO - 21:43:47 User name has been entered.
+INFO - 21:43:47 Password has been entered.
+INFO - 21:43:47 Login button has been clicked.
+INFO - 21:43:47 Login has been done!
+INFO - 21:46:10 User name has been entered.
+INFO - 21:46:10 Password has been entered.
+INFO - 21:46:10 Login button has been clicked.
+INFO - 21:46:10 Login has been done!
+INFO - 22:01:10 User name has been entered.
+INFO - 22:01:10 Password has been entered.
+INFO - 22:01:10 Login button has been clicked.
+INFO - 22:01:10 Login has been done!
+INFO - 22:46:10 User name has been entered.
+INFO - 22:46:10 Password has been entered.
+INFO - 22:46:10 Login button has been clicked.
+INFO - 22:46:10 Login has been done!
+INFO - 23:01:09 User name has been entered.
+INFO - 23:01:09 Password has been entered.
+INFO - 23:01:09 Login button has been clicked.
+INFO - 23:01:09 Login has been done!
+INFO - 15:03:37 User name has been entered.
+INFO - 15:03:37 Password has been entered.
+INFO - 15:03:37 Login button has been clicked.
+INFO - 15:03:37 Login has been done!
+INFO - 15:39:46 User name has been entered.
+INFO - 15:39:46 Password has been entered.
+INFO - 15:39:46 Login button has been clicked.
+FATAL - 15:39:46 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 051522024_15:41:11 User name has been entered.
+INFO - 051522024_15:41:11 Password has been entered.
+INFO - 051522024_15:41:11 Login button has been clicked.
+FATAL - 051522024_15:41:11 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 20240531_15:42:33 User name has been entered.
+INFO - 20240531_15:42:33 Password has been entered.
+INFO - 20240531_15:42:33 Login button has been clicked.
+FATAL - 20240531_15:42:33 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 20240531_15:45:23 User name has been entered.
+INFO - 20240531_15:45:23 Password has been entered.
+INFO - 20240531_15:45:23 Login button has been clicked.
+FATAL - 20240531_15:45:23 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 05312024_15:46:44 User name has been entered.
+INFO - 05312024_15:46:44 Password has been entered.
+INFO - 05312024_15:46:44 Login button has been clicked.
+FATAL - 05312024_15:46:44 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 05312024_15:47:38 User name has been entered.
+INFO - 05312024_15:47:38 Password has been entered.
+INFO - 05312024_15:47:38 Login button has been clicked.
+INFO - 05312024_15:47:38 Login has been done!
+INFO - 05312024_15:47:38 loginTestCase passed.
+INFO - 05312024_15:51:16 User name has been entered.
+INFO - 05312024_15:51:16 Password has been entered.
+INFO - 05312024_15:51:16 Login button has been clicked.
+INFO - 05312024_15:51:16 Login has been done!
+INFO - 05312024_15:51:16 loginTestCase passed.
+INFO - 05312024_15:51:47 User name has been entered.
+INFO - 05312024_15:51:47 Password has been entered.
+INFO - 05312024_15:51:47 Login button has been clicked.
+INFO - 05312024_15:51:47 Login has been done!
+INFO - 05312024_15:51:47 loginTestCase passed.
+INFO - 05312024_15:52:28 User name has been entered.
+INFO - 05312024_15:52:28 Password has been entered.
+INFO - 05312024_15:52:28 Login button has been clicked.
+FATAL - 05312024_15:52:28 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 05312024_15:53:22 User name has been entered.
+INFO - 05312024_15:53:22 Password has been entered.
+INFO - 05312024_15:53:22 Login button has been clicked.
+FATAL - 05312024_15:53:22 loginTestCase failed due to: java.lang.AssertionError: expected [Home Page - FiscalSystems_RETLWeb] but found [Login - FiscalSystems_RETLWeb]
+INFO - 05312024_15:55:12 User name has been entered.
+INFO - 05312024_15:55:12 Password has been entered.
+INFO - 05312024_15:55:12 Login button has been clicked.
+INFO - 05312024_15:55:12 Login has been done!
+INFO - 05312024_15:55:42 User name has been entered.
+INFO - 05312024_15:55:42 Password has been entered.
+INFO - 05312024_15:55:42 Login button has been clicked.
+INFO - 05312024_15:55:42 Login has been done!
+INFO - 05312024_15:55:42 loginTestCase passed.
+INFO - 05312024_15:56:38 User name has been entered.
+INFO - 05312024_15:56:38 Password has been entered.
+INFO - 05312024_15:56:38 Login button has been clicked.
+INFO - 05312024_15:56:38 Login has been done!
+INFO - 05312024_15:56:38 loginTestCase passed.
+INFO - 05312024_16:46:11 User name has been entered.
+INFO - 05312024_16:46:11 Password has been entered.
+INFO - 05312024_16:46:11 Login button has been clicked.
+INFO - 05312024_16:46:11 Login has been done!
+INFO - 05312024_21:18:53 User name has been entered.
+INFO - 05312024_21:18:53 Password has been entered.
+INFO - 05312024_21:18:53 Login button has been clicked.
+INFO - 05312024_21:18:53 Login has been done!
+INFO - 05312024_21:21:49 User name has been entered.
+INFO - 05312024_21:21:49 Password has been entered.
+INFO - 05312024_21:21:49 Login button has been clicked.
+INFO - 05312024_21:21:49 Login has been done!
+INFO - 05312024_21:39:57 User name has been entered.
+INFO - 05312024_21:39:57 Password has been entered.
+INFO - 05312024_21:39:57 Login button has been clicked.
+INFO - 05312024_21:39:57 Login has been done!
+INFO - 05312024_21:43:09 User name has been entered.
+INFO - 05312024_21:43:09 Password has been entered.
+INFO - 05312024_21:43:09 Login button has been clicked.
+INFO - 05312024_21:43:09 Login has been done!
+INFO - 05312024_21:44:27 User name has been entered.
+INFO - 05312024_21:44:27 Password has been entered.
+INFO - 05312024_21:44:27 Login button has been clicked.
+INFO - 05312024_21:44:27 Login has been done!
+INFO - 05312024_21:46:52 User name has been entered.
+INFO - 05312024_21:46:52 Password has been entered.
+INFO - 05312024_21:46:52 Login button has been clicked.
+INFO - 05312024_21:46:52 Login has been done!
+INFO - 05312024_21:48:03 User name has been entered.
+INFO - 05312024_21:48:03 Password has been entered.
+INFO - 05312024_21:48:03 Login button has been clicked.
+INFO - 05312024_21:48:03 Login has been done!
+INFO - 05312024_22:51:15 User name has been entered.
+INFO - 05312024_22:51:15 Password has been entered.
+INFO - 05312024_22:51:15 Login button has been clicked.
+INFO - 05312024_22:51:15 Login has been done!
+INFO - 05312024_22:52:26 User name has been entered.
+INFO - 05312024_22:52:26 Password has been entered.
+INFO - 05312024_22:52:26 Login button has been clicked.
+INFO - 05312024_22:52:26 Login has been done!
+INFO - 05312024_22:52:48 User name has been entered.
+INFO - 05312024_22:52:48 Password has been entered.
+INFO - 05312024_22:52:48 Login button has been clicked.
+INFO - 05312024_22:52:48 Login has been done!
+INFO - 05312024_22:54:38 User name has been entered.
+INFO - 05312024_22:54:38 Password has been entered.
+INFO - 05312024_22:54:38 Login button has been clicked.
+INFO - 05312024_22:54:38 Login has been done!
+INFO - 05312024_22:55:51 User name has been entered.
+INFO - 05312024_22:55:51 Password has been entered.
+INFO - 05312024_22:55:51 Login button has been clicked.
+INFO - 05312024_22:55:51 Login has been done!
+INFO - 05312024_22:57:25 User name has been entered.
+INFO - 05312024_22:57:25 Password has been entered.
+INFO - 05312024_22:57:25 Login button has been clicked.
+INFO - 05312024_22:57:25 Login has been done!
+INFO - 05312024_22:58:12 User name has been entered.
+INFO - 05312024_22:58:12 Password has been entered.
+INFO - 05312024_22:58:12 Login button has been clicked.
+INFO - 05312024_22:58:12 Login has been done!
+INFO - 05312024_22:59:09 User name has been entered.
+INFO - 05312024_22:59:09 Password has been entered.
+INFO - 05312024_22:59:09 Login button has been clicked.
+INFO - 05312024_22:59:09 Login has been done!
+INFO - 05312024_23:01:15 User name has been entered.
+INFO - 05312024_23:01:15 Password has been entered.
+INFO - 05312024_23:01:15 Login button has been clicked.
+INFO - 05312024_23:01:15 Login has been done!
+INFO - 05312024_23:02:51 User name has been entered.
+INFO - 05312024_23:02:51 Password has been entered.
+INFO - 05312024_23:02:51 Login button has been clicked.
+INFO - 05312024_23:02:51 Login has been done!
+INFO - 05312024_23:03:14 User name has been entered.
+INFO - 05312024_23:03:14 Password has been entered.
+INFO - 05312024_23:03:14 Login button has been clicked.
+INFO - 05312024_23:03:14 Login has been done!
+INFO - 05312024_23:03:49 User name has been entered.
+INFO - 05312024_23:03:49 Password has been entered.
+INFO - 05312024_23:03:49 Login button has been clicked.
+INFO - 05312024_23:03:49 Login has been done!
+INFO - 05312024_23:05:15 User name has been entered.
+INFO - 05312024_23:05:15 Password has been entered.
+INFO - 05312024_23:05:15 Login button has been clicked.
+INFO - 05312024_23:05:15 Login has been done!
+INFO - 05312024_23:05:59 User name has been entered.
+INFO - 05312024_23:05:59 Password has been entered.
+INFO - 05312024_23:05:59 Login button has been clicked.
+INFO - 05312024_23:05:59 Login has been done!
+INFO - 05312024_23:16:15 User name has been entered.
+INFO - 05312024_23:16:15 Password has been entered.
+INFO - 05312024_23:16:15 Login button has been clicked.
+INFO - 05312024_23:16:15 Login has been done!
+INFO - 05312024_23:16:43 User name has been entered.
+INFO - 05312024_23:16:43 Password has been entered.
+INFO - 05312024_23:16:43 Login button has been clicked.
+INFO - 05312024_23:16:43 Login has been done!
+INFO - 05312024_23:17:12 User name has been entered.
+INFO - 05312024_23:17:12 Password has been entered.
+INFO - 05312024_23:17:12 Login button has been clicked.
+INFO - 05312024_23:17:12 Login has been done!
+INFO - 05312024_23:24:43 User name has been entered.
+INFO - 05312024_23:25:15 User name has been entered.
+INFO - 06032024_15:49:01 User name has been entered.
+INFO - 06032024_15:49:27 User name has been entered.
+INFO - 06032024_15:49:46 User name has been entered.
+INFO - 06032024_15:51:11 User name has been entered.
+INFO - 06032024_15:51:11 Password has been entered.
+INFO - 06032024_15:51:11 Login button has been clicked.
+INFO - 06032024_15:51:11 Login has been done!
+INFO - 06032024_15:51:50 User name has been entered.
+INFO - 06032024_15:51:50 Password has been entered.
+INFO - 06032024_15:51:50 Login button has been clicked.
+INFO - 06032024_15:51:50 Login has been done!
+INFO - 06032024_15:52:29 User name has been entered.
+INFO - 06032024_15:52:29 Password has been entered.
+INFO - 06032024_15:52:29 Login button has been clicked.
+INFO - 06032024_15:52:29 Login has been done!
+INFO - 06032024_15:52:50 User name has been entered.
+INFO - 06032024_15:52:50 Password has been entered.
+INFO - 06032024_15:52:50 Login button has been clicked.
+INFO - 06032024_15:52:50 Login has been done!
+INFO - 06032024_15:54:20 User name has been entered.
+INFO - 06032024_15:54:20 Password has been entered.
+INFO - 06032024_15:54:20 Login button has been clicked.
+INFO - 06032024_15:54:20 Login has been done!
+INFO - 06032024_16:09:33 User name has been entered.
+INFO - 06032024_16:09:33 Password has been entered.
+INFO - 06032024_16:09:33 Login button has been clicked.
+INFO - 06032024_16:09:33 Login has been done!
+INFO - 06032024_16:10:38 User name has been entered.
+INFO - 06032024_16:10:38 Password has been entered.
+INFO - 06032024_16:10:38 Login button has been clicked.
+INFO - 06032024_16:10:38 Login has been done!
+INFO - 06032024_16:36:58 User name has been entered.
+INFO - 06032024_16:36:58 Password has been entered.
+INFO - 06032024_16:36:58 Login button has been clicked.
+INFO - 06032024_16:36:58 Login has been done!
+INFO - 06032024_16:37:31 User name has been entered.
+INFO - 06032024_16:37:31 Password has been entered.
+INFO - 06032024_16:37:31 Login button has been clicked.
+INFO - 06032024_16:37:31 Login has been done!
+INFO - 06032024_16:38:08 User name has been entered.
+INFO - 06032024_16:38:08 Password has been entered.
+INFO - 06032024_16:38:08 Login button has been clicked.
+INFO - 06032024_16:38:08 Login has been done!
+INFO - 06032024_16:40:25 User name has been entered.
+INFO - 06032024_16:40:25 Password has been entered.
+INFO - 06032024_16:40:25 Login button has been clicked.
+INFO - 06032024_16:40:25 Login has been done!
+INFO - 06032024_16:41:33 User name has been entered.
+INFO - 06032024_16:41:33 Password has been entered.
+INFO - 06032024_16:41:33 Login button has been clicked.
+INFO - 06032024_16:41:33 Login has been done!
+INFO - 06032024_16:44:28 User name has been entered.
+INFO - 06032024_16:44:28 Password has been entered.
+INFO - 06032024_16:44:28 Login button has been clicked.
+INFO - 06032024_16:44:28 Login has been done!
+INFO - 06032024_16:45:39 User name has been entered.
+INFO - 06032024_16:45:39 Password has been entered.
+INFO - 06032024_16:45:39 Login button has been clicked.
+INFO - 06032024_16:45:39 Login has been done!
+INFO - 06032024_16:46:50 User name has been entered.
+INFO - 06032024_16:46:50 Password has been entered.
+INFO - 06032024_16:46:50 Login button has been clicked.
+INFO - 06032024_16:46:50 Login has been done!
+INFO - 06032024_16:47:17 User name has been entered.
+INFO - 06032024_16:47:17 Password has been entered.
+INFO - 06032024_16:47:17 Login button has been clicked.
+INFO - 06032024_16:47:17 Login has been done!
+INFO - 06032024_16:48:53 User name has been entered.
+INFO - 06032024_16:48:53 Password has been entered.
+INFO - 06032024_16:48:53 Login button has been clicked.
+INFO - 06032024_16:48:53 Login has been done!
+INFO - 06032024_16:49:28 User name has been entered.
+INFO - 06032024_16:49:28 Password has been entered.
+INFO - 06032024_16:49:28 Login button has been clicked.
+INFO - 06032024_16:49:28 Login has been done!
+INFO - 06032024_16:50:10 User name has been entered.
+INFO - 06032024_16:50:10 Password has been entered.
+INFO - 06032024_16:50:10 Login button has been clicked.
+INFO - 06032024_16:50:10 Login has been done!
+INFO - 06032024_16:51:54 User name has been entered.
+INFO - 06032024_16:51:54 Password has been entered.
+INFO - 06032024_16:51:54 Login button has been clicked.
+INFO - 06032024_16:51:54 Login has been done!
+INFO - 06032024_16:52:29 User name has been entered.
+INFO - 06032024_16:52:29 Password has been entered.
+INFO - 06032024_16:52:29 Login button has been clicked.
+INFO - 06032024_16:52:29 Login has been done!
+INFO - 06032024_16:52:54 User name has been entered.
+INFO - 06032024_16:52:54 Password has been entered.
+INFO - 06032024_16:52:54 Login button has been clicked.
+INFO - 06032024_16:52:54 Login has been done!
+INFO - 06032024_16:53:35 User name has been entered.
+INFO - 06032024_16:53:35 Password has been entered.
+INFO - 06032024_16:53:35 Login button has been clicked.
+INFO - 06032024_16:53:35 Login has been done!
+INFO - 06032024_16:54:51 User name has been entered.
+INFO - 06032024_16:54:51 Password has been entered.
+INFO - 06032024_16:54:51 Login button has been clicked.
+INFO - 06032024_16:54:51 Login has been done!
+INFO - 06032024_16:55:40 User name has been entered.
+INFO - 06032024_16:55:40 Password has been entered.
+INFO - 06032024_16:55:40 Login button has been clicked.
+INFO - 06032024_16:55:40 Login has been done!
+INFO - 06032024_16:56:47 User name has been entered.
+INFO - 06032024_16:56:47 Password has been entered.
+INFO - 06032024_16:56:47 Login button has been clicked.
+INFO - 06032024_16:56:47 Login has been done!
+INFO - 06032024_16:57:06 User name has been entered.
+INFO - 06032024_16:57:06 Password has been entered.
+INFO - 06032024_16:57:06 Login button has been clicked.
+INFO - 06032024_16:57:06 Login has been done!
+INFO - 06032024_16:57:06 User name has been entered.
+INFO - 06032024_16:57:06 Password has been entered.
+INFO - 06032024_16:57:06 Login button has been clicked.
+INFO - 06032024_16:57:06 Login has been done!
+INFO - 06032024_16:57:50 User name has been entered.
+INFO - 06032024_16:57:50 Password has been entered.
+INFO - 06032024_16:57:50 Login button has been clicked.
+INFO - 06032024_16:57:50 Login has been done!
+INFO - 06032024_16:57:50 User name has been entered.
+INFO - 06032024_16:57:50 Password has been entered.
+INFO - 06032024_16:57:50 Login button has been clicked.
+INFO - 06032024_16:57:50 Login has been done!
+INFO - 06032024_16:58:19 User name has been entered.
+INFO - 06032024_16:58:19 Password has been entered.
+INFO - 06032024_16:58:19 Login button has been clicked.
+INFO - 06032024_16:58:19 Login has been done!
+INFO - 06032024_16:58:19 User name has been entered.
+INFO - 06032024_16:58:19 Password has been entered.
+INFO - 06032024_16:58:19 Login button has been clicked.
+INFO - 06032024_16:58:19 Login has been done!
+INFO - 06032024_16:59:03 User name has been entered.
+INFO - 06032024_16:59:03 Password has been entered.
+INFO - 06032024_16:59:03 Login button has been clicked.
+INFO - 06032024_16:59:03 Login has been done!
+INFO - 06032024_16:59:03 User name has been entered.
+INFO - 06032024_16:59:03 Password has been entered.
+INFO - 06032024_16:59:03 Login button has been clicked.
+INFO - 06032024_16:59:03 Login has been done!
+INFO - 06032024_17:01:22 User name has been entered.
+INFO - 06032024_17:01:22 Password has been entered.
+INFO - 06032024_17:01:22 Login button has been clicked.
+INFO - 06032024_17:01:22 Login has been done!
+INFO - 06032024_17:01:22 staffView passed.
+FATAL - 06032024_17:01:22 staffEdit failed due to: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#UserName"}
+  (Session info: MicrosoftEdge=124.0.2478.105)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [07e5794ea0e278e88d374e94159ab25a, findElement {using=id, value=UserName}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 124.0.2478.105, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53864}, msedge: {msedgedriverVersion: 124.0.2478.127 (f645b55a57a..., userDataDir: C:\Users\amitk2\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53864/devtoo..., se:cdpVersion: 124.0.2478.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07e5794ea0e278e88d374e94159ab25a
+INFO - 06032024_17:02:25 User name has been entered.
+INFO - 06032024_17:02:25 Password has been entered.
+INFO - 06032024_17:02:25 Login button has been clicked.
+INFO - 06032024_17:02:25 Login has been done!
+INFO - 06032024_17:02:25 staffView passed.
+FATAL - 06032024_17:02:25 staffEdit failed due to: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#UserName"}
+  (Session info: MicrosoftEdge=124.0.2478.105)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ca7d198703e6cde7357f91693a40f20c, findElement {using=id, value=UserName}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 124.0.2478.105, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53952}, msedge: {msedgedriverVersion: 124.0.2478.127 (f645b55a57a..., userDataDir: C:\Users\amitk2\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53952/devtoo..., se:cdpVersion: 124.0.2478.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ca7d198703e6cde7357f91693a40f20c
+INFO - 06032024_17:03:10 User name has been entered.
+INFO - 06032024_17:03:10 Password has been entered.
+INFO - 06032024_17:03:10 Login button has been clicked.
+INFO - 06032024_17:03:10 Login has been done!
+INFO - 06032024_17:10:24 User name has been entered.
+INFO - 06032024_17:10:24 Password has been entered.
+INFO - 06032024_17:10:24 Login button has been clicked.
+INFO - 06032024_17:10:24 Login has been done!
+INFO - 06032024_17:11:07 User name has been entered.
+INFO - 06032024_17:11:07 Password has been entered.
+INFO - 06032024_17:11:07 Login button has been clicked.
+INFO - 06032024_17:11:07 Login has been done!
+INFO - 06032024_17:15:30 User name has been entered.
+INFO - 06032024_17:15:30 Password has been entered.
+INFO - 06032024_17:15:30 Login button has been clicked.
+INFO - 06032024_17:15:30 Login has been done!
+INFO - 06032024_17:16:13 User name has been entered.
+INFO - 06032024_17:16:13 Password has been entered.
+INFO - 06032024_17:16:13 Login button has been clicked.
+INFO - 06032024_17:16:13 Login has been done!
+INFO - 06032024_17:17:17 User name has been entered.
+INFO - 06032024_17:17:17 Password has been entered.
+INFO - 06032024_17:17:17 Login button has been clicked.
+INFO - 06032024_17:17:17 Login has been done!
+INFO - 06032024_17:21:43 User name has been entered.
+INFO - 06032024_17:21:43 Password has been entered.
+INFO - 06032024_17:21:43 Login button has been clicked.
+INFO - 06032024_17:21:43 Login has been done!
+INFO - 06032024_17:24:35 User name has been entered.
+INFO - 06032024_17:24:35 Password has been entered.
+INFO - 06032024_17:24:35 Login button has been clicked.
+INFO - 06032024_17:24:35 Login has been done!
+INFO - 06032024_17:26:55 User name has been entered.
+INFO - 06032024_17:26:55 Password has been entered.
+INFO - 06032024_17:26:55 Login button has been clicked.
+INFO - 06032024_17:26:55 Login has been done!
+INFO - 06032024_17:27:57 User name has been entered.
+INFO - 06032024_17:27:57 Password has been entered.
+INFO - 06032024_17:27:57 Login button has been clicked.
+INFO - 06032024_17:27:57 Login has been done!
+INFO - 06032024_17:29:16 User name has been entered.
+INFO - 06032024_17:29:16 Password has been entered.
+INFO - 06032024_17:29:16 Login button has been clicked.
+INFO - 06032024_17:29:16 Login has been done!
+INFO - 06032024_17:29:51 User name has been entered.
+INFO - 06032024_17:29:51 Password has been entered.
+INFO - 06032024_17:29:51 Login button has been clicked.
+INFO - 06032024_17:29:51 Login has been done!
+INFO - 06032024_17:30:09 User name has been entered.
+INFO - 06032024_17:30:09 Password has been entered.
+INFO - 06032024_17:30:09 Login button has been clicked.
+INFO - 06032024_17:30:09 Login has been done!
+INFO - 06032024_17:30:47 User name has been entered.
+INFO - 06032024_17:30:47 Password has been entered.
+INFO - 06032024_17:30:47 Login button has been clicked.
+INFO - 06032024_17:30:47 Login has been done!
+INFO - 06032024_17:31:23 User name has been entered.
+INFO - 06032024_17:31:23 Password has been entered.
+INFO - 06032024_17:31:23 Login button has been clicked.
+INFO - 06032024_17:31:23 Login has been done!
+INFO - 06032024_17:31:40 User name has been entered.
+INFO - 06032024_17:31:40 Password has been entered.
+INFO - 06032024_17:31:40 Login button has been clicked.
+INFO - 06032024_17:31:40 Login has been done!
+INFO - 06032024_17:32:08 User name has been entered.
+INFO - 06032024_17:32:08 Password has been entered.
+INFO - 06032024_17:32:08 Login button has been clicked.
+INFO - 06032024_17:32:08 Login has been done!
+INFO - 06032024_17:34:56 User name has been entered.
+INFO - 06032024_17:34:56 Password has been entered.
+INFO - 06032024_17:34:56 Login button has been clicked.
+INFO - 06032024_17:34:56 Login has been done!
+INFO - 06032024_17:35:18 User name has been entered.
+INFO - 06032024_17:35:18 Password has been entered.
+INFO - 06032024_17:35:18 Login button has been clicked.
+INFO - 06032024_17:35:18 Login has been done!
+INFO - 06032024_17:44:19 User name has been entered.
+INFO - 06032024_17:44:19 Password has been entered.
+INFO - 06032024_17:44:19 Login button has been clicked.
+INFO - 06032024_17:44:19 Login has been done!
+INFO - 06032024_17:44:57 User name has been entered.
+INFO - 06032024_17:44:57 Password has been entered.
+INFO - 06032024_17:44:57 Login button has been clicked.
+INFO - 06032024_17:44:57 Login has been done!
+INFO - 06032024_17:45:25 User name has been entered.
+INFO - 06032024_17:45:25 Password has been entered.
+INFO - 06032024_17:45:25 Login button has been clicked.
+INFO - 06032024_17:45:25 Login has been done!
+INFO - 06032024_18:28:34 User name has been entered.
+INFO - 06032024_18:28:34 Password has been entered.
+INFO - 06032024_18:28:34 Login button has been clicked.
+INFO - 06032024_18:28:34 Login has been done!
+INFO - 06032024_18:36:22 User name has been entered.
+INFO - 06032024_18:36:22 Password has been entered.
+INFO - 06032024_18:36:22 Login button has been clicked.
+INFO - 06032024_18:36:22 Login has been done!
+INFO - 06032024_18:38:18 User name has been entered.
+INFO - 06032024_18:38:18 Password has been entered.
+INFO - 06032024_18:38:18 Login button has been clicked.
+INFO - 06032024_18:38:18 Login has been done!
+INFO - 06032024_18:39:03 User name has been entered.
+INFO - 06032024_18:39:03 Password has been entered.
+INFO - 06032024_18:39:03 Login button has been clicked.
+INFO - 06032024_18:39:03 Login has been done!
+INFO - 06032024_18:40:51 User name has been entered.
+INFO - 06032024_18:40:51 Password has been entered.
+INFO - 06032024_18:40:51 Login button has been clicked.
+INFO - 06032024_18:40:51 Login has been done!
+INFO - 06032024_18:41:19 User name has been entered.
+INFO - 06032024_18:41:19 Password has been entered.
+INFO - 06032024_18:41:19 Login button has been clicked.
+INFO - 06032024_18:41:19 Login has been done!
+INFO - 06032024_18:44:17 User name has been entered.
+INFO - 06032024_18:44:17 Password has been entered.
+INFO - 06032024_18:44:17 Login button has been clicked.
+INFO - 06032024_18:44:52 User name has been entered.
+INFO - 06032024_18:44:52 Password has been entered.
+INFO - 06032024_18:44:52 Login button has been clicked.
+INFO - 06032024_19:21:28 User name has been entered.
+INFO - 06032024_19:21:28 User name has been entered.
+INFO - 06032024_19:21:28 Password has been entered.
+INFO - 06032024_19:21:28 Password has been entered.
+INFO - 06032024_19:21:28 Login button has been clicked.
+INFO - 06032024_19:21:28 Login button has been clicked.
+INFO - 06032024_19:21:28 User name has been entered.
+INFO - 06032024_19:21:28 User name has been entered.
+INFO - 06032024_19:21:28 Password has been entered.
+INFO - 06032024_19:21:28 Password has been entered.
+INFO - 06032024_19:21:28 Login button has been clicked.
+INFO - 06032024_19:21:28 Login button has been clicked.
+INFO - 06032024_19:21:28 Login has been done!
+INFO - 06032024_19:21:28 Login has been done!
+INFO - 06032024_19:21:28 loginTestCase passed.
+INFO - 06032024_19:21:28 loginTestCase passed.
+INFO - 06032024_19:21:28 staffView passed.
+INFO - 06032024_19:21:28 staffView passed.
+INFO - 06032024_19:21:28 staffEdit passed.
+INFO - 06032024_19:21:28 staffEdit passed.
+INFO - 06032024_19:21:28 staffDelete passed.
+INFO - 06032024_19:21:28 staffDelete passed.
+INFO - 06032024_19:22:55 User name has been entered.
+INFO - 06032024_19:22:55 User name has been entered.
+INFO - 06032024_19:22:55 Password has been entered.
+INFO - 06032024_19:22:55 Password has been entered.
+INFO - 06032024_19:22:55 Login button has been clicked.
+INFO - 06032024_19:22:55 Login button has been clicked.
+INFO - 06032024_19:22:55 User name has been entered.
+INFO - 06032024_19:22:55 User name has been entered.
+INFO - 06032024_19:22:55 Password has been entered.
+INFO - 06032024_19:22:55 Password has been entered.
+INFO - 06032024_19:22:55 Login button has been clicked.
+INFO - 06032024_19:22:55 Login button has been clicked.
+INFO - 06032024_19:22:55 Login has been done!
+INFO - 06032024_19:22:55 Login has been done!
+INFO - 06032024_19:22:55 loginTestCase passed.
+INFO - 06032024_19:22:55 loginTestCase passed.
+INFO - 06032024_19:22:55 staffView passed.
+INFO - 06032024_19:22:55 staffView passed.
+INFO - 06032024_19:22:55 staffEdit passed.
+INFO - 06032024_19:22:55 staffEdit passed.
+INFO - 06032024_19:22:55 staffDelete passed.
+INFO - 06032024_19:22:55 staffDelete passed.
+INFO - 06032024_19:25:08 User name has been entered.
+INFO - 06032024_19:25:08 User name has been entered.
+INFO - 06032024_19:25:08 Password has been entered.
+INFO - 06032024_19:25:08 Password has been entered.
+INFO - 06032024_19:25:08 Login button has been clicked.
+INFO - 06032024_19:25:08 Login button has been clicked.
+INFO - 06032024_19:25:08 User name has been entered.
+INFO - 06032024_19:25:08 User name has been entered.
+INFO - 06032024_19:25:08 Password has been entered.
+INFO - 06032024_19:25:08 Password has been entered.
+INFO - 06032024_19:25:08 Login button has been clicked.
+INFO - 06032024_19:25:08 Login button has been clicked.
+INFO - 06032024_19:25:08 Login has been done!
+INFO - 06032024_19:25:08 Login has been done!
+INFO - 06032024_19:29:12 User name has been entered.
+INFO - 06032024_19:29:12 User name has been entered.
+INFO - 06032024_19:29:12 Password has been entered.
+INFO - 06032024_19:29:12 Password has been entered.
+INFO - 06032024_19:29:12 Login button has been clicked.
+INFO - 06032024_19:29:12 Login button has been clicked.
+INFO - 06032024_19:29:12 User name has been entered.
+INFO - 06032024_19:29:12 User name has been entered.
+INFO - 06032024_19:29:12 Password has been entered.
+INFO - 06032024_19:29:12 Password has been entered.
+INFO - 06032024_19:29:12 Login button has been clicked.
+INFO - 06032024_19:29:12 Login button has been clicked.
+INFO - 06032024_19:29:12 Login has been done!
+INFO - 06032024_19:29:12 Login has been done!
+INFO - 06032024_19:31:27 User name has been entered.
+INFO - 06032024_19:31:27 User name has been entered.
+INFO - 06032024_19:31:27 Password has been entered.
+INFO - 06032024_19:31:27 Password has been entered.
+INFO - 06032024_19:31:27 Login button has been clicked.
+INFO - 06032024_19:31:27 Login button has been clicked.
+INFO - 06032024_19:31:27 User name has been entered.
+INFO - 06032024_19:31:27 User name has been entered.
+INFO - 06032024_19:31:27 Password has been entered.
+INFO - 06032024_19:31:27 Password has been entered.
+INFO - 06032024_19:31:27 Login button has been clicked.
+INFO - 06032024_19:31:27 Login button has been clicked.
+INFO - 06032024_19:31:27 Login has been done!
+INFO - 06032024_19:31:27 Login has been done!
+INFO - 06032024_19:32:25 User name has been entered.
+INFO - 06032024_19:32:25 Password has been entered.
+INFO - 06032024_19:32:25 Login button has been clicked.
+INFO - 06032024_19:33:45 User name has been entered.
+INFO - 06032024_19:33:45 User name has been entered.
+INFO - 06032024_19:33:45 Password has been entered.
+INFO - 06032024_19:33:45 Password has been entered.
+INFO - 06032024_19:33:45 Login button has been clicked.
+INFO - 06032024_19:33:45 Login button has been clicked.
+INFO - 06032024_19:33:45 User name has been entered.
+INFO - 06032024_19:33:45 User name has been entered.
+INFO - 06032024_19:33:45 Password has been entered.
+INFO - 06032024_19:33:45 Password has been entered.
+INFO - 06032024_19:33:45 Login button has been clicked.
+INFO - 06032024_19:33:45 Login button has been clicked.
+INFO - 06032024_19:33:45 Login has been done!
+INFO - 06032024_19:33:45 Login has been done!
+INFO - 06032024_19:34:49 User name has been entered.
+INFO - 06032024_19:34:49 User name has been entered.
+INFO - 06032024_19:34:49 Password has been entered.
+INFO - 06032024_19:34:49 Password has been entered.
+INFO - 06032024_19:34:49 Login button has been clicked.
+INFO - 06032024_19:34:49 Login button has been clicked.
+INFO - 06032024_19:34:49 User name has been entered.
+INFO - 06032024_19:34:49 User name has been entered.
+INFO - 06032024_19:34:49 Password has been entered.
+INFO - 06032024_19:34:49 Password has been entered.
+INFO - 06032024_19:34:49 Login button has been clicked.
+INFO - 06032024_19:34:49 Login button has been clicked.
+INFO - 06032024_19:34:49 Login has been done!
+INFO - 06032024_19:34:49 Login has been done!
+INFO - 06032024_19:35:42 User name has been entered.
+INFO - 06032024_19:35:42 User name has been entered.
+INFO - 06032024_19:35:42 Password has been entered.
+INFO - 06032024_19:35:42 Password has been entered.
+INFO - 06032024_19:35:42 Login button has been clicked.
+INFO - 06032024_19:35:42 Login button has been clicked.
+INFO - 06032024_19:35:42 User name has been entered.
+INFO - 06032024_19:35:42 User name has been entered.
+INFO - 06032024_19:35:42 Password has been entered.
+INFO - 06032024_19:35:42 Password has been entered.
+INFO - 06032024_19:35:42 Login button has been clicked.
+INFO - 06032024_19:35:42 Login button has been clicked.
+INFO - 06032024_19:35:42 Login has been done!
+INFO - 06032024_19:35:42 Login has been done!
+INFO - 06032024_19:38:03 User name has been entered.
+INFO - 06032024_19:38:03 User name has been entered.
+INFO - 06032024_19:38:03 Password has been entered.
+INFO - 06032024_19:38:03 Password has been entered.
+INFO - 06032024_19:38:03 Login button has been clicked.
+INFO - 06032024_19:38:03 Login button has been clicked.
+INFO - 06032024_19:38:03 User name has been entered.
+INFO - 06032024_19:38:03 User name has been entered.
+INFO - 06032024_19:38:03 Password has been entered.
+INFO - 06032024_19:38:03 Password has been entered.
+INFO - 06032024_19:38:03 Login button has been clicked.
+INFO - 06032024_19:38:03 Login button has been clicked.
+INFO - 06032024_19:38:03 Login has been done!
+INFO - 06032024_19:38:03 Login has been done!
+INFO - 06042024_15:11:46 User name has been entered.
+INFO - 06042024_15:11:46 User name has been entered.
+INFO - 06042024_15:11:46 Password has been entered.
+INFO - 06042024_15:11:46 Password has been entered.
+INFO - 06042024_15:11:46 Login button has been clicked.
+INFO - 06042024_15:11:46 Login button has been clicked.
+INFO - 06042024_15:11:46 User name has been entered.
+INFO - 06042024_15:11:46 User name has been entered.
+INFO - 06042024_15:11:46 Password has been entered.
+INFO - 06042024_15:11:46 Password has been entered.
+INFO - 06042024_15:11:46 Login button has been clicked.
+INFO - 06042024_15:11:46 Login button has been clicked.
+INFO - 06042024_15:11:46 Login has been done!
+INFO - 06042024_15:11:46 Login has been done!
+INFO - 06042024_16:45:09 User name has been entered.
+INFO - 06042024_16:45:09 User name has been entered.
+INFO - 06042024_16:45:09 Password has been entered.
+INFO - 06042024_16:45:09 Password has been entered.
+INFO - 06042024_16:45:09 Login button has been clicked.
+INFO - 06042024_16:45:09 Login button has been clicked.
+INFO - 06042024_16:45:09 User name has been entered.
+INFO - 06042024_16:45:09 User name has been entered.
+INFO - 06042024_16:45:09 Password has been entered.
+INFO - 06042024_16:45:09 Password has been entered.
+INFO - 06042024_16:45:09 Login button has been clicked.
+INFO - 06042024_16:45:09 Login button has been clicked.
+INFO - 06042024_16:45:09 Login has been done!
+INFO - 06042024_16:45:09 Login has been done!
+INFO - 06042024_17:13:01 User name has been entered.
+INFO - 06042024_17:13:01 User name has been entered.
+INFO - 06042024_17:13:01 Password has been entered.
+INFO - 06042024_17:13:01 Password has been entered.
+INFO - 06042024_17:13:01 Login button has been clicked.
+INFO - 06042024_17:13:01 Login button has been clicked.
+INFO - 06042024_17:13:01 User name has been entered.
+INFO - 06042024_17:13:01 User name has been entered.
+INFO - 06042024_17:13:01 Password has been entered.
+INFO - 06042024_17:13:01 Password has been entered.
+INFO - 06042024_17:13:01 Login button has been clicked.
+INFO - 06042024_17:13:01 Login button has been clicked.
+INFO - 06042024_17:13:01 Login has been done!
+INFO - 06042024_17:13:01 Login has been done!
+INFO - 06042024_20:47:29 User name has been entered.
+INFO - 06042024_20:47:29 User name has been entered.
+INFO - 06042024_20:47:29 Password has been entered.
+INFO - 06042024_20:47:29 Password has been entered.
+INFO - 06042024_20:47:29 Login button has been clicked.
+INFO - 06042024_20:47:29 Login button has been clicked.
+INFO - 06042024_20:47:29 User name has been entered.
+INFO - 06042024_20:47:29 User name has been entered.
+INFO - 06042024_20:47:29 Password has been entered.
+INFO - 06042024_20:47:29 Password has been entered.
+INFO - 06042024_20:47:29 Login button has been clicked.
+INFO - 06042024_20:47:29 Login button has been clicked.
+INFO - 06042024_20:47:29 Login has been done!
+INFO - 06042024_20:47:29 Login has been done!
+INFO - 06052024_15:11:53 User name has been entered.
+INFO - 06052024_15:11:53 User name has been entered.
+INFO - 06052024_15:11:53 Password has been entered.
+INFO - 06052024_15:11:53 Password has been entered.
+INFO - 06052024_15:11:53 Login button has been clicked.
+INFO - 06052024_15:11:53 Login button has been clicked.
+INFO - 06052024_15:11:53 User name has been entered.
+INFO - 06052024_15:11:53 User name has been entered.
+INFO - 06052024_15:11:53 Password has been entered.
+INFO - 06052024_15:11:53 Password has been entered.
+INFO - 06052024_15:11:53 Login button has been clicked.
+INFO - 06052024_15:11:53 Login button has been clicked.
+INFO - 06052024_15:11:53 Login has been done!
+INFO - 06052024_15:11:53 Login has been done!
+INFO - 06052024_16:17:51 User name has been entered.
+INFO - 06052024_16:17:51 User name has been entered.
+INFO - 06052024_16:17:51 Password has been entered.
+INFO - 06052024_16:17:51 Password has been entered.
+INFO - 06052024_16:17:51 Login button has been clicked.
+INFO - 06052024_16:17:51 Login button has been clicked.
+INFO - 06052024_16:17:51 User name has been entered.
+INFO - 06052024_16:17:51 User name has been entered.
+INFO - 06052024_16:17:51 Password has been entered.
+INFO - 06052024_16:17:51 Password has been entered.
+INFO - 06052024_16:17:51 Login button has been clicked.
+INFO - 06052024_16:17:51 Login button has been clicked.
+INFO - 06052024_16:17:51 Login has been done!
+INFO - 06052024_16:17:51 Login has been done!
+INFO - 06052024_16:23:01 User name has been entered.
+INFO - 06052024_16:23:01 User name has been entered.
+INFO - 06052024_16:23:01 Password has been entered.
+INFO - 06052024_16:23:01 Password has been entered.
+INFO - 06052024_16:23:01 Login button has been clicked.
+INFO - 06052024_16:23:01 Login button has been clicked.
+INFO - 06052024_16:23:01 User name has been entered.
+INFO - 06052024_16:23:01 User name has been entered.
+INFO - 06052024_16:23:01 Password has been entered.
+INFO - 06052024_16:23:01 Password has been entered.
+INFO - 06052024_16:23:01 Login button has been clicked.
+INFO - 06052024_16:23:01 Login button has been clicked.
+INFO - 06052024_16:23:01 Login has been done!
+INFO - 06052024_16:23:01 Login has been done!
