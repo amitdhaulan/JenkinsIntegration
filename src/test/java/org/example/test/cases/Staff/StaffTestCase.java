@@ -49,6 +49,7 @@ public class StaffTestCase extends BaseClass {
         staffListPage.clickStaffMenu();
         staffListPage.clickStaffList();
         staffListPage.clickEditIcon();
+        Assert.assertEquals(false, true);
     }
 
     @Test(priority = 2, groups = {"Regression"}, description = "This is a test case for deleting staff list")
